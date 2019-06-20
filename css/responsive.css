@@ -1,0 +1,14 @@
+@media (max-width: 568px){
+	.carousel-caption {
+    position: absolute;
+    top: 10%;
+    text-align: justify-all;
+    padding: -24px;
+}
+}
+@media (max-width: 991px){
+	.nav-item{
+  border-bottom: 1px solid #b9b8b887;
+}
+}
+
